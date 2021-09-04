@@ -1,6 +1,6 @@
 # Build your portfolio - workflow
 
-## Introduction
+## Part 1 - Introduction
 
 - What are we going to build?
 - Why do we need a portfolio?
@@ -8,7 +8,7 @@
 - We are going to build this website for 3 types of users
 - What are HTML tags? - Wikipedia example
 
-## Part 2
+## Part 2 - Build flow
 
 1. Build a component library using HTML tags
     - Example bootstrap material UI
